@@ -1,2 +1,5 @@
-﻿export * from './bar';
-export * from './foo';
+﻿export * from './foo';
+export * from './bar';
+
+export class Baz {
+}
